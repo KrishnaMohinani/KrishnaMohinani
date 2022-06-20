@@ -1,4 +1,4 @@
-### Hi there 👋, I am Krishna Mohinani. I'm a recent Sustainable Energy graduate. Power markets, data science, energy forecasting, and embedded systems are all areas in which I am extremely interested. My github profile will primarily contain content related to the aforementioned topics :smiley:
+### Hi there 👋, I am Krishna Mohinani. I'm a recent Sustainable Energy graduate. Power markets, data science, energy forecasting, and embedded systems are all areas in which I am extremely interested. My github profile (still a  work in progress) will primarily contain content related to the aforementioned topics :smiley:
 
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaMohinani&show_icons=true&theme=dracula)
 
